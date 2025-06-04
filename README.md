@@ -1,6 +1,6 @@
 # VaultApp
 
-<h2> 🔐 Criptografia forte com PBKDF2HMAC + salt + Fernet
+ 🔐 Criptografia forte com PBKDF2HMAC + salt + Fernet
 
 🔑 Senha mestra obrigatória para acesso
 
@@ -15,5 +15,3 @@
 🚨 Função segura para resetar o vault
 
 🛡️ Tentativas de senha limitadas (3)
-
-</h2>
